@@ -1,4 +1,10 @@
-# docker-paperkey
+# ~docker-paperkey~
+
+> # Heads up!
+>
+> The repo and the Docker image aren't maintained any more. You can use the code to build your own image, but **do not rely on the published one**.
+
+---
 
 > A Docker image for [Paperkey] — an OpenPGP key archiver
 
